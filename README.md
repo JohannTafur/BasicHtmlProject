@@ -4,7 +4,7 @@ The project is made in html 5, which consists of three pages.
  
 In the first is the history of photography and how it has evolved.
 
-The second page is about the best video-only cameras, photo-only cameras, and the best cameras for both photos and videos.
+The second page is about the best cameras AND their specifications.
 
 The third page has a brief description of who I am and what I do.
 
